@@ -76,14 +76,6 @@ Dans les deux fichiers (`ahp.py` et `tkinter_ahp_gui.py`), cherchez les sections
 # phones = [...]
 ```
 et remplacez les valeurs selon vos besoins.
-
----
-
-## ✅ Statut
-✔️ Projet finalisé, conforme à l'énoncé INF4178.
-✔️ Fonctionne en console Linux ou GUI Ubuntu.
-✔️ Aucune base de données nécessaire.
-
 ---
 
 ## 🧑‍💻 Auteur
