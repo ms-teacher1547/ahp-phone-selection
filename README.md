@@ -25,7 +25,7 @@ Choisir le téléphone idéal en fonction des critères suivants :
 ## 📦 Contenu du projet
 
 ```
-📁 ton-projet-ahp/
+📁 project-ahp/
 ├── ahp.py           ← Script principal à exécuter
 ├── README.md        ← Fichier explicatif (ce document)
 ```
